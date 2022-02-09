@@ -1,6 +1,6 @@
 # Patchwork
 
-Repository for my Patchwork python code for M30299-2020/21-SMYEAR PAPL
+Archived Repository for my Patchwork python code for M30299-2020/21-SMYEAR PAPL
 
 ## Overview of Project
 
